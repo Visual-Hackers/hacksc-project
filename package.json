@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Visual-Hackers/hacksc-project/issues"
   },
-  "homepage": "https://github.com/Visual-Hackers/hacksc-project#readme"
+  "homepage": "https://github.com/Visual-Hackers/hacksc-project#readme",
+  "dependencies": {
+    "@mux/mux-node": "^2.6.0"
+  }
 }
