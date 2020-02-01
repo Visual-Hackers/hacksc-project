@@ -1,0 +1,19 @@
+{
+  "name": "hacksc-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Visual-Hackers/hacksc-project.git"
+  },
+  "author": "Visual Hackers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Visual-Hackers/hacksc-project/issues"
+  },
+  "homepage": "https://github.com/Visual-Hackers/hacksc-project#readme"
+}
